@@ -1,0 +1,73 @@
+.scoreCard{
+  margin:20px;
+  padding:0;
+  box-sizing: border-box;
+  border: 4px solid rgb(33, 31, 31);
+  box-shadow: 0 0 0 1px rgba(51, 50, 50, 0.1);
+  display:inline-block;
+  width:270px;
+  height:220px;
+  position:relative;
+  background-color: rgb(255, 255, 255);
+
+ 
+}
+h5{
+  font-size:14px;
+  font-weight: bold;
+}
+
+.scoreCard h5{
+  margin-bottom:150px;
+}
+.day{
+position:absolute;
+top:20px;
+right:10px;
+background: #fff;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: bold;
+}
+.message{
+  font-size:18px;
+  font-weight: bold;
+  text-align: center;
+  
+}
+.score{
+  position:absolute;
+ top:70px;
+ right:5px
+}
+.image{
+  height:30px;
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+  position:absolute;
+  
+  
+}
+.flags{
+  position:absolute;
+  top:70px;
+  margin:10px;
+}
+.image1{
+  margin-top:40px;
+  margin-right:10px;
+
+}
+.teamName{
+  position:absolute;
+  top:71px;
+  left:77px;
+  color:rgb(15, 14, 14);
+  font-size:16px;
+  font-weight: bold;
+}
+ body{
+  background-color: rgb(50, 46, 46);
+ }
