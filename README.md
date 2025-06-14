@@ -6,11 +6,8 @@ A clean, reusable **Score Card UI component** built using **React** and styled w
 
 ## 🚀 Demo
 
-![Screenshot (1)](https://github.com/user-attachments/assets/552e1e2b-1afb-40a9-aa2d-99eb61405f08)
 
-
-
-
+![Screenshot (13)](https://github.com/user-attachments/assets/998e2617-eb4a-4339-9552-c853923a1b32)
 
 
 ---
