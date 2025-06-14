@@ -1,12 +1,46 @@
-# React + Vite
+# 🏏 React Score Card Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, reusable **Score Card UI component** built using **React** and styled with custom CSS. This component is ideal for displaying sports match details like team flags, names, scores, match day, and a custom message.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Demo
 
-## Expanding the ESLint configuration
+![Screenshot 2025-06-14 101627](https://github.com/user-attachments/assets/fed9b1d0-5ef5-471c-88bf-dca10125ee2a)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+---
+
+## 📸 Component Preview
+
+The component shows:
+
+- Match title
+- Two team flags
+- Team names
+- Match day and status/message
+- Scores of each team
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React
+- 🎨 Custom CSS
+
+---
+
+## 📦 Installation & Usage
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/your-username/react-score-card.git
+cd react-score-card
+
+Install dependencies
+
+npm install
+Start development server
+npm run dev
